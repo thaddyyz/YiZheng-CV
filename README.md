@@ -3,9 +3,13 @@
 **Software Engineer with a passion for synergising technology with users.**
 
 📧 [teohyz98@gmail.com](mailto:teohyz98@gmail.com) 
+|
 🌐 [GitHub](https://github.com/thaddyyz)
 [LinkedIn](https://linkedin.com/in/yzteoh)
 [Portfolio Website](https://thaddyyz.github.io/yz_website/)
+
+---
+[PDF CV Download](https://drive.google.com/file/d/1o4Z5O4kWt_AEFBm0ILq0Wz_VuemDn48a/view?usp=sharing)
 
 ---
 
