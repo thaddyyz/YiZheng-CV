@@ -5,7 +5,7 @@
 📧 [teohyz98@gmail.com](mailto:teohyz98@gmail.com) 
 🌐 [GitHub](https://github.com/thaddyyz)
 [LinkedIn](https://linkedin.com/in/yzteoh)
-[Portfolio](https://thaddyyz.github.io/yz_website/)
+[Portfolio Website](https://thaddyyz.github.io/yz_website/)
 
 ---
 
